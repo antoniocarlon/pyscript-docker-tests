@@ -11,8 +11,6 @@ docker-compose up
 ```
 
 ## View examples
-Once you see (may take a while)
-```
-Your application is ready~! 🚀
-```
-just navigate to http://localhost:8080
+Just navigate to http://localhost:8080
+
+(may take a while until it's ready)
